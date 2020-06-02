@@ -11,5 +11,7 @@ public class Love {
         System.out.println("我爱段淑娜");
         int j = 2;
         int i = 1;
+        System.out.println("lisi改了代码");
+
     }
 }
