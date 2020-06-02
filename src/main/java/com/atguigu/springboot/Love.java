@@ -9,6 +9,7 @@ package com.atguigu.springboot;
 public class Love {
     public static void main(String[] args) {
         System.out.println("我爱段淑娜");
+        int j = 2;
         int i = 1;
     }
 }
